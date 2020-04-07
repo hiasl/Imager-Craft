@@ -1,5 +1,5 @@
 {
-    "name": "aelvan/imager",
+    "name": "hiasl/imager",
     "description": "Image transforms gone wild",
     "type": "craft-plugin",
     "version": "v2.4.0",
@@ -21,8 +21,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "André Elvan",
-            "homepage": "https://www.vaersaagod.no"
+            "name": "Matthias Redl-Mann thanks to André Elvan",
+            "homepage": "https://www.getdesigned.at"
         }
     ],
     "require": {
